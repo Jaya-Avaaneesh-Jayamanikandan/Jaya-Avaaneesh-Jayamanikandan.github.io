@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="hero">
+    <h1>👋, I'm <span class="highlight">Jaya Avaaneesh</span></h1>
+    <p>A passionate developer showcasing his awesome creations.</p>
+    <button onclick="scrollToContact()">Contact Me</button>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I'm a developer who loves creating applications and modules using Python 🐍.</p>
+    <h3>Interests:</h3>
+    <ul>
+      <li>Full-stack Web Development</li>
+      <li>Python GUI App Development (Desktop)</li>
+      <li>Python Module Development</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <div class="project-grid" id="projectGrid">
+      <!-- Project cards will be added here by JS -->
+    </div>
+  </section>
+
+  <section class="contact" id="contact">
+    <h2>Contact Me</h2>
+    <p>Email me at <a href="mailto:avaaneesh2011@gmail.com">avaaneesh2011@gmail.com</a> for any questions!</p>
+  </section>
+
+  <div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <h3 id="modalTitle"></h3>
+    <p id="modalDescription"></p>
+    <div class="image-gallery" id="imageGallery"></div>
+  </div>
+</div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
