@@ -14,11 +14,11 @@ const projects = [
     images: ["assets/images/SSP-1.png", "assets/images/SSP-2.png", "assets/images/SSP-3.png", "assets/images/SSP-4.png", "assets/images/SSP-5.png", "assets/images/SSP-6.png", "assets/images/SSP-7.png"]
   },
   {
-    title: "Coming Soon..",
-    short: "Something geat is cooking!",
-    description: "Project is kept under wraps until finished ❌",
-    github: "#",
-    images: []
+    title: "SIGMA Financial Institution: Full-stack Website",
+    short: "A website teach the poor about finances.",
+    description: "A website made to teach the under-previleged about financial knowledge and empower them to rise out of poverty. Built using HTML, Bootstrap 5 and Javascript. It was built for the GEMS Innovation Challenge (GIC) 2025 held at GEMS Modern Academy. Static files are removed from the project source code to protect the privacy of the people involved in its development.",
+    github: "https://github.com/Jaya-Avaaneesh-Jayamanikandan/SIGMA-Financial-Institution",
+    images: ["assets/images/SFI-1.png", "assets/images/SFI-2.png", "assets/images/SFI-3.png", "assets/images/SFI-4.png", "assets/images/SFI-5.png", "assets/images/SFI-6.png", "assets/images/SFI-7.png", "assets/images/SFI-8.png", "assets/images/SFI-9.png", "assets/images/SFI-10.png", "assets/images/SFI-11.png", "assets/images/SFI-12.png", "assets/images/SFI-13.png", "assets/images/SFI-14.png", "assets/images/SFI-15.png", "assets/images/SFI-16.png", "assets/images/SFI-17.png", "assets/images/SFI-18.png", "assets/images/SFI-19.png"]
   }
 ];
 
