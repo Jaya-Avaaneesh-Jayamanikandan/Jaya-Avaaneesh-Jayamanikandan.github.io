@@ -19,6 +19,13 @@ const projects = [
     description: "A website made to teach the under-previleged about financial knowledge and empower them to rise out of poverty. Built using HTML, Bootstrap 5 and Javascript. It was built for the GEMS Innovation Challenge (GIC) 2025 held at GEMS Modern Academy. Static files are removed from the project source code to protect the privacy of the people involved in its development.",
     github: "https://github.com/Jaya-Avaaneesh-Jayamanikandan/SIGMA-Financial-Institution",
     images: ["assets/images/SFI-1.png", "assets/images/SFI-2.png", "assets/images/SFI-3.png", "assets/images/SFI-4.png", "assets/images/SFI-5.png", "assets/images/SFI-6.png", "assets/images/SFI-7.png", "assets/images/SFI-8.png", "assets/images/SFI-9.png", "assets/images/SFI-10.png", "assets/images/SFI-11.png", "assets/images/SFI-12.png", "assets/images/SFI-13.png", "assets/images/SFI-14.png", "assets/images/SFI-15.png", "assets/images/SFI-16.png", "assets/images/SFI-17.png", "assets/images/SFI-18.png", "assets/images/SFI-19.png"]
+  },
+  {
+    title: "PySupervisor: Inline TODO App",
+    short: "A simple and efficient command-line tool to manage inline TODO lists directly inside Python files.",
+    description "A simple and efficient command-line tool to manage inline TODO lists directly inside Python files to solve developer problems like misorganized tasks or spending thousands to get a task list for a small developer team/individual. Made using Typer Tiangolo!",
+    github: "https://github.com/Jaya-Avaaneesh-Jayamanikandan/PySupervisor",
+    images: []
   }
 ];
 
