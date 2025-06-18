@@ -23,7 +23,7 @@ const projects = [
   {
     title: "PySupervisor: Inline TODO App",
     short: "A simple and efficient command-line tool to manage inline TODO lists directly inside Python files.",
-    description "A simple and efficient command-line tool to manage inline TODO lists directly inside Python files to solve developer problems like misorganized tasks or spending thousands to get a task list for a small developer team/individual. Made using Typer Tiangolo!",
+    description "A simple and efficient command-line tool to manage inline TODO lists directly inside Python files to solve developer problems like misorganized tasks or spending thousands to get a task list for a small developer team or individual. Made using Typer Tiangolo!",
     github: "https://github.com/Jaya-Avaaneesh-Jayamanikandan/PySupervisor",
     images: []
   }
